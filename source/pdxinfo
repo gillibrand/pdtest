@@ -1,7 +1,7 @@
-name=Game Name
-author=Author Name
+name=Gillibrand Game
+author=Jay Gillibrand
 description=This is a Playdate game.
-bundleID=com.domain.GameName
+bundleID=com.gillibrand.test
 version=1.0
 imagePath=SystemAssets/
-buildNumber=1
+buildNumber=5
