@@ -4,4 +4,4 @@ description=This is a Playdate game.
 bundleID=com.gillibrand.test
 version=1.0
 imagePath=SystemAssets/
-buildNumber=5
+buildNumber=92
